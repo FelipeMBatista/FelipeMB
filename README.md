@@ -1,4 +1,4 @@
-# FelipeMB
+<h3> FelipeMB </h3>
 <h2> Hello! I'm Felipe! </h2>
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/felipembatista/) 
