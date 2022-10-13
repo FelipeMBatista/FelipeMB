@@ -1,4 +1,4 @@
-#  Olá! Seja bem vindo(a)! 🎉
+#  Olá! Seja bem vindo(a)!
 ### Me chamo Felipe, e estou estudando para me tornar programador.
 
 ###### Trabalho atualmente no meio ambiental, mas tenho muito interesse de ingressar como desenvolvedor/ programador. Estudo desde o início de 2022 e atualmente estou buscando oportunidades no mercado da tecnologia.
