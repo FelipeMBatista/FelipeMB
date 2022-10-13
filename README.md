@@ -1,15 +1,14 @@
 #  Olá! Seja bem vindo(a)! 🎉
 ### Me chamo Felipe, e estou estudando para me tornar programador.
 
-###### Trabalho atualmente no meio ambiental, mas tenho muito interesse de ingressar em TI. Estudo desde o início de 2022 e atualmente estou buscando oportunidades no mercado da tecnologia.
+###### Trabalho atualmente no meio ambiental, mas tenho muito interesse de ingressar como desenvolvedor/ programador. Estudo desde o início de 2022 e atualmente estou buscando oportunidades no mercado da tecnologia.
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/felipembatista/) 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:profissional.felipemb@gmail.com) [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/felipemb) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/felipemb___/)
 
-- 🎯 Sempre em constante evolução e buscando novos desafios. 
-- 😄 Animado e bem humorado. 
-- 🌆 Adoro games, filmes, séries e viagens. 
-- 🐈 🐕‍🦺 Pai de pet.
+- Animado, positivo e bem humorado.
+- Em constante evolução e buscando novos desafios. 
+- Sempre buscando somar onde estiver com muita comunicação e trabalho em equipe.
 
 #### Skills
 
@@ -26,5 +25,3 @@
 - Selênium
 - Beautiful Soup
 - Flask
-- Bootstrap
-- Jinja
