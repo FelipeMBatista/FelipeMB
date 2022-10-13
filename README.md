@@ -9,7 +9,7 @@
 - Animado, positivo e bem humorado.
 - Em constante evolução e buscando novos desafios.
 - Gosto muito de estudar e colocar meu conhecimento em prática.
-- Sempre buscando somar onde estiver com muita comunicação e trabalho em equipe.
+- Sempre buscando somar onde estiver, com muita comunicação e trabalho em equipe.
 
 #### Skills
 
