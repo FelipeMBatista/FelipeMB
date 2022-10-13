@@ -7,15 +7,16 @@
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:profissional.felipemb@gmail.com) [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/felipemb) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/felipemb___/)
 
 - Animado, positivo e bem humorado.
-- Em constante evolução e buscando novos desafios. 
+- Em constante evolução e buscando novos desafios.
+- Gosto muito de estudar e colocar meu conhecimento em prática.
 - Sempre buscando somar onde estiver com muita comunicação e trabalho em equipe.
 
 #### Skills
 
 <div>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" style="width: 40px; text-align: center;"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" style="width: 40px; text-align: center;"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" style="width: 40px; text-align: center;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" style="width: 40px; text-align: center;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" style="width: 40px; text-align: center;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" style="width: 40px; text-align: center;"/>
 </div>
 
 #### Também já tive contato com:
