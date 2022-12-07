@@ -26,3 +26,6 @@
 - Selênium
 - Beautiful Soup
 - Flask
+- SQLite
+- Flask SQLAlchemy
+- Flask WTForms
